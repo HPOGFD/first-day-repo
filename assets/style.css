@@ -1,0 +1,43 @@
+
+.lesson,
+.card,
+p,
+header  {
+    background-color: lemonchiffon;
+  }
+  
+  
+  h1,
+  h2 {
+    color: darkblue;
+  }
+  
+  #email {
+    background-color: goldenrod;
+   
+  }
+  
+  #GitHub {
+    background-color: lightsteelblue;
+   
+   
+  }
+  
+  #Portfolio
+  {
+    background-color: darkorange;
+  }
+img {
+    border-radius: 25px 10px 25px 10px;
+    background-color: white;
+    padding: 5px;
+
+}
+li {
+    margin: -17px 0;
+}
+
+    
+ 
+  
+
